@@ -5,6 +5,7 @@
   margin: -45px 10px 70px 10px;
   box-shadow: 6px 7px 5px rgba(66, 36, 1, 0.3);
   background-color: white;
+  width: 400px;
 }
 
 ul {
@@ -36,7 +37,7 @@ input[type="checkbox"]:checked + label {
 
 .foodImg {
   margin-top: 20px;
-  width: 400px;
+  width: 100%;
   margin-bottom: 5px;
 }
 
@@ -97,6 +98,9 @@ div::-webkit-scrollbar {
     display: flex;
     float: center;
     width: 100%;
+  }
+  .recipeList{
+    width: 350px;
   }
 }
 
