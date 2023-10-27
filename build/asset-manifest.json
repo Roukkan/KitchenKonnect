@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/KitchenKonnect/static/css/main.8f53bdf9.css",
+    "main.js": "/KitchenKonnect/static/js/main.5ccffe61.js",
+    "static/media/pexel.jpg": "/KitchenKonnect/static/media/pexel.33c9c65ba2bb97a2a6bb.jpg",
+    "static/media/KK3white.png": "/KitchenKonnect/static/media/KK3white.2492f1d070ea86ed95c6.png",
+    "static/media/KK3.png": "/KitchenKonnect/static/media/KK3.058f0f4ab6506dd6e5b4.png",
+    "index.html": "/KitchenKonnect/index.html",
+    "main.8f53bdf9.css.map": "/KitchenKonnect/static/css/main.8f53bdf9.css.map",
+    "main.5ccffe61.js.map": "/KitchenKonnect/static/js/main.5ccffe61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f53bdf9.css",
+    "static/js/main.5ccffe61.js"
+  ]
+}
