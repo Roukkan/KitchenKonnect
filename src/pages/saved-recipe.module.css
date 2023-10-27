@@ -37,7 +37,6 @@ input[type="checkbox"]:checked + label {
 .foodImg {
   margin-top: 20px;
   width: 400px;
-  height: auto;
   margin-bottom: 5px;
 }
 

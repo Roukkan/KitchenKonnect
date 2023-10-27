@@ -150,7 +150,6 @@ export const SavedRecipe = () => {
                     <img
                       src={modalData.imageUrl}
                       alt={modalData.name}
-                      style={{ maxWidth: "100%" }}
                       className={SAVEDCSS.foodImg}
                     />
                     <p className={SAVEDCSS.time}>
