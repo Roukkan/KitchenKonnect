@@ -17,11 +17,6 @@ h2 {
   margin-top: 0;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-  margin-bottom: 5px;
-}
 
 input[type="checkbox"]:checked + label {
   color: rgb(72, 71, 71);
@@ -42,6 +37,8 @@ input[type="checkbox"]:checked + label {
 .foodImg {
   margin-top: 20px;
   width: 400px;
+  height: auto;
+  margin-bottom: 5px;
 }
 
 .addBtn {

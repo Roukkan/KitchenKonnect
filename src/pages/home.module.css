@@ -16,13 +16,6 @@ h2 {
   margin: 0px 10px 0px 10px;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-  margin-bottom: 5px;
-  padding-top: 10px;
-}
-
 .view {
   border: none;
   padding: 10px 20px;
@@ -37,7 +30,10 @@ img {
 .foodImg {
   margin-top: 20px;
   width: 400px;
+  height: auto;
+  margin-bottom: 5px;
 }
+
 
 .addBtn {
   background-color: rgba(255, 255, 255, 0);
